@@ -12,7 +12,7 @@ Projects are divided into three tiers based on the knowledge , experience and my
 Tier	Developer Profile
 1	Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.
 
-[Calculadora-JavaScript](https://github.com/SantiE3/Proyects/tree/main/calculator)
+ 1- [Calculadora-JavaScript](https://github.com/SantiE3/Proyects/tree/main/calculator)
 
 
 
